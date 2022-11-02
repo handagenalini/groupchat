@@ -1,0 +1,11 @@
+.send-box {
+    position: fixed !important;
+    bottom: 2%;
+    width: 50%;
+    right: 25%;
+}
+
+
+.bg-chat{
+    background-color: rgb(218, 218, 218);
+}
